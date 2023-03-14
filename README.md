@@ -1,19 +1,21 @@
-# Data Cleaning - D206
-## Overview
+# WGU
+## Master of Science, Data Analytics
 
-Data Cleaning continues building proficiency in the data analytics life cycle with data preparation skills. This course addresses exploring, transforming, and imputing data as well as handling outliers. Learners write code to manipulate, structure, and clean data as well as to reduce features in data sets. The following courses are prerequisites: The Data Analytics Journey, and Data Acquisition.
+## Data Analytics Courses
 
+* Advanced Data Analytics
+* Data Cleaning
 
-## COMPETENCIES
+* Predictive Modeling
+* Exploratory Data Analysis
 
-* Predicting Obstacles to Cleaning Data
+* The Data Analytics Journey
+* Data Visualization
 
-	- The graduate predicts potential obstacles in data analysis based on the quality of the data provided.
+* Data Mining I
+* Data Mining II
 
-* Preparing Data for Analysis
+* Data Acquisition
+* Advanced Data Acquisition
 
-	- The graduate prepares data for analysis to address a business need.
-
-* Writing code to Clean data
-
-	- The graduate writes reusable code to manipulate and clean data in preparation for analysis.
+* Data Analytics Capstone
